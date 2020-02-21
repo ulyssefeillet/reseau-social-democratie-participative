@@ -14,7 +14,7 @@ Le code est organisé selon l’approche modeles/vues/contrôleurs avec :
   * une vue qui contient la présentation de l'interface graphique,
   * un contrôleur qui contient la logique concernant les actions effectuées par l'utilisateur.
 
-![Rapport complet](./Rapport-Projet-Tutoré.pdf "Rapport complet de projet")
+Lire le rapport complet pour plus d'information: ![Rapport complet](./Rapport-Projet-Tutoré.pdf "Rapport complet de projet")
 
 
 
