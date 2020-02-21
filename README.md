@@ -1,5 +1,5 @@
 # Projet Full Stack PHP MySQL
-##Pplateforme digitale de démocratie participative 
+## Plateforme digitale de démocratie participative 
 
 ## Sujet
 En 2020, ce sont les élections municipales, et l’heure est à la démocratie participative, c’est-à-dire une implication des citoyens dans des décisions publiques. 
