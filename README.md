@@ -7,4 +7,3 @@ Enfin, les citoyens pourront voter pour des propositions. Ces votes se baseront 
 De plus, les commentaires inappropriés pourront être signalés par les membres du groupe et ensuite, supprimés par l’administrateur. 
 
 ![Rapport](./Rapport-Projet-Tutoré.pdf "Rapport")
-![Rapport](./Rapport_Manga_Land.pdf "Rapport")
