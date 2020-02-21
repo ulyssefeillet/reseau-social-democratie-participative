@@ -10,9 +10,9 @@ De plus, les commentaires inappropriés pourront être signalés par les membres
 Le site est codé en PHP, MySQL, Bootstrap suivant une architecture MVC.
 
 Le code est organisé selon l’approche modeles/vues/contrôleurs avec :  
-• un modèle qui contient les données à afficher,
-• une vue qui contient la présentation de l'interface graphique,
-• un contrôleur qui contient la logique concernant les actions effectuées par l'utilisateur.
+  * un modèle qui contient les données à afficher,
+  * une vue qui contient la présentation de l'interface graphique,
+  * un contrôleur qui contient la logique concernant les actions effectuées par l'utilisateur.
 
 ![Rapport complet](./Rapport-Projet-Tutoré.pdf "Rapport complet de projet")
 
