@@ -7,7 +7,12 @@ Enfin, les citoyens pourront voter pour des propositions. Ces votes se baseront 
 De plus, les commentaires inappropriés pourront être signalés par les membres du groupe et ensuite, supprimés par l’administrateur. 
 
 ## Technologies
-Pratique de PHP, MySQL, Bootstrap et architecture MVC.
+Le site est codé en PHP, MySQL, Bootstrap suivant une architecture MVC.
+
+Le code est organisé selon l’approche modeles/vues/contrôleurs avec :  
+• un modèle qui contient les données à afficher,
+• une vue qui contient la présentation de l'interface graphique,
+• un contrôleur qui contient la logique concernant les actions effectuées par l'utilisateur.
 
 ![Rapport complet](./Rapport-Projet-Tutoré.pdf "Rapport complet de projet")
 
